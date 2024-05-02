@@ -1,3 +1,0 @@
-/home/michail/Рабочий стол/C++/Learning/CMakeFiles/main.dir
-/home/michail/Рабочий стол/C++/Learning/CMakeFiles/edit_cache.dir
-/home/michail/Рабочий стол/C++/Learning/CMakeFiles/rebuild_cache.dir

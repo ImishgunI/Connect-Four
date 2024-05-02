@@ -16,4 +16,11 @@ public:
 
     static void renderBoard(SDL_Renderer* renderer);
 
+    static void renderCircle(SDL_Renderer* renderer, int x_param, int y_param, int radius);
+
+
+    static SDL_Window* getWindow()  {
+        return window;
+    }
+
 };
